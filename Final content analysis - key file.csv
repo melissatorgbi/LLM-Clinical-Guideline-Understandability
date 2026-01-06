@@ -1,0 +1,261 @@
+﻿"NB: throughout these questions, ""Version 1"" refers to the original guidelines"" and ""Version 2"" to the version of those original guidelines revised by GPT-4.",
+,
+Q1,What is your ID number? This will have been sent to you by email
+Q2,Which Medusa guideline are you reviewing?
+1,Aminophylline
+2,Amiodarone
+3,Amoxicillin
+4,Ceftriaxone
+5,Cyclizine
+6,Fentanyl
+7,Flucloxacillin
+8,Furosemide
+9,Gentamicin
+10,Levetiracetam
+11,Magnesium sulfate
+12,Meropenem
+13,Metronidazole
+14,Noradrenaline
+15,Omeprazole
+16,Paracetamol
+17,Phenytoin
+18,Piperacillin with tazobactam
+19,Propofol
+20,Teicoplanin
+21,Vancomycin
+22,Voriconazole
+Q3,Is this section present?
+1,Yes
+2,No
+Q4,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q5,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q6,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q7,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q8,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q9,Is this section present?
+1,Yes
+2,No
+Q10,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q11,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q12,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q13,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q14,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q15,Is this section present?
+1,Yes
+2,No
+Q16,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q17,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q18,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q19,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q20,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q21,Is this section present?
+1,Yes
+2,No
+Q22,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q23,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q24,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q25,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q26,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q27,Is this section present?
+1,Yes
+2,No
+Q28,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q29,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q30,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q31,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q32,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q33,Is this section present?
+1,Yes
+2,No
+Q34,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q35,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q36,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q37,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q38,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q39,Is this section present?
+1,Yes
+2,No
+Q40,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q41,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q42,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q43,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q44,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q45,Is this section present?
+1,Yes
+2,No
+Q46,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q47,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q48,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q49,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q50,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q51,Is this section present?
+1,Yes
+2,No
+Q52,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q53,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q54,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q55,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q56,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q57,Is this section present?
+1,Yes
+2,No
+Q58,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q59,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q60,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q61,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q62,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q63,Is this section present?
+1,Yes
+2,No
+Q64,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q65,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q66,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q67,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q68,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q69,Is this section present?
+1,Yes
+2,No
+Q70,Does version 2 introduce any clinically relevant changes to the information found in this section of version 1?
+1,No
+2,Yes
+Q71,Does version 2 omit any clinically relevant information that is found in this section in version 1?
+1,No
+2,Yes
+Q72,Does version 2 add any information that is not found in this section in version 1?
+1,No
+2,Yes
+Q73,"If you answered yes to any of the questions above, please briefly describe the changes you found."
+Q74,"Considering just this section, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q75,"Considering all the sub-sections you’ve read, which version is the most easily understood?"
+1,Version 1 is much easier to understand
+2,Version 1 is slightly easier to understand
+3,Both versions are equally easy to understand
+4,Version 2 is slightly easier to understand
+5,Version 2 is much easier to understand
+Q76,Why do you think this?
